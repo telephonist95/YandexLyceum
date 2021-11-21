@@ -9,7 +9,7 @@ from PyQt5.QtCore import QRectF
 class MyWidget(QMainWindow):
     def __init__(self):
         super().__init__()
-        uic.loadUi('UI.ui', self)
+        uic.loadUi('main.ui', self)
         self.do_paint = False
         self.pushButton.clicked.connect(self.run)
         self.count = 3
