@@ -4,4 +4,13 @@
 -Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
-
+В удалённом репозитории 9 коммитов. Их комментарии:
+1. repo#2
+2. Merge branch 'boots_buttons', remote-tracking branch 'origin/hat'
+3. Merge remote-tracking branches 'origin/boots' and 'origin/buttons' into boots_buttons
+4. fix readme
+5. dots
+6. README added
+7. boots
+8. heat added
+9. init
